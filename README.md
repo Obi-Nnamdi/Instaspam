@@ -6,6 +6,4 @@ Note: for further notes on creating MIT email enabled apps using Microsoft Azure
 
 Screenshots:
 ![Example Dashboard](https://user-images.githubusercontent.com/59924301/221009655-743303a6-0397-48e5-80bd-041b1f3e2c46.png)
-![Responsive Design (Slighly Thin)](https://user-images.githubusercontent.com/59924301/221009721-eb432987-c0fd-49c8-8ae8-54494bc1b103.png)
-![Responsive Design (Super Thin)](https://user-images.githubusercontent.com/59924301/221009734-61b7c572-ea50-41c2-86d4-daf08e15225f.png)
 ![Profile Page](https://user-images.githubusercontent.com/59924301/221009754-077ef13a-3b92-4f5d-afa0-9b8c07666827.png)
